@@ -99,3 +99,5 @@ curl -X DELETE \
     "id": "4738c11d-acc4-482b-b5cb-accd9ef74c75"
 }'
 ```
+## Stats
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.Mock-Crud-Server)	![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/Mock-Crud-Server)
